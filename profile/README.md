@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://sksolucoesdigitais.com">
-  <img src="https://raw.githubusercontent.com/sksolucoesdigitais/.github/main/assets/banner.svg?v=2" alt="SK Soluções Digitais — software sob medida" width="100%">
+  <img src="https://raw.githubusercontent.com/sksolucoesdigitais/.github/main/assets/banner.svg?v=3" alt="SK Soluções Digitais — software sob medida" width="100%">
 </a>
 
 <br>
@@ -84,6 +84,6 @@ Desenvolvemos **software sob medida** para empresas que precisam de sistemas con
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/sksolucoesdigitais/.github/main/assets/footer.svg?v=2" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/sksolucoesdigitais/.github/main/assets/footer.svg?v=3" alt="" width="100%">
 
 </div>
